@@ -13,8 +13,9 @@ const nextConfig = {
       }
     ]
   },
-  assetPrefix: '/',
-  basePath: '',
+  // 根據環境變量設定 basePath 和 assetPrefix
+  basePath: process.env.GITHUB_ACTIONS ? '/barnew' : '',
+  assetPrefix: process.env.GITHUB_ACTIONS ? '/barnew/' : '/',
 };
 
 module.exports = nextConfig;
