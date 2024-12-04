@@ -1,0 +1,167 @@
+{
+  "welcome": "歡迎光臨現代亞洲酒吧",
+  "navigation": {
+    "home": "首頁",
+    "menu": "菜單",
+    "about": "關於我們",
+    "contact": "聯絡我們",
+    "reservation": "預約訂位"
+  },
+  "hero": {
+    "title": "體驗現代亞洲美食",
+    "subtitle": "傳統與創新的完美結合"
+  },
+  "features": {
+    "title": "為何選擇我們",
+    "subtitle": "發現我們的獨特之處",
+    "cards": {
+      "drinks": {
+        "title": "精緻調酒",
+        "description": "以優質烈酒和新鮮食材調製的亞洲特色雞尾酒"
+      },
+      "food": {
+        "title": "現代亞洲料理",
+        "description": "傳統亞洲美食的現代詮釋"
+      },
+      "atmosphere": {
+        "title": "優雅氛圍",
+        "description": "現代設計與傳統亞洲美學的融合"
+      },
+      "hours": {
+        "title": "營業時間",
+        "description": "延長營業時間以配合您的夜晚計劃"
+      }
+    }
+  },
+  "menu": {
+    "title": "瀏覽菜單",
+    "description": "探索我們的美味料理與特色調酒",
+    "drinks": "飲品",
+    "food": "美食",
+    "specials": "特色推薦",
+    "all": "全部",
+    "badges": {
+      "spicy": "辛辣",
+      "new": "新品"
+    },
+    "items": {
+      "drinks": {
+        "signature_cocktail": {
+          "name": "招牌雞尾酒",
+          "description": "柚子、清酒與日本琴酒的完美調和"
+        },
+        "matcha_martini": {
+          "name": "抹茶馬丁尼",
+          "description": "特級抹茶、伏特加與奶油"
+        },
+        "sakura_spritz": {
+          "name": "櫻花氣泡酒",
+          "description": "櫻花、普羅塞克與蘇打"
+        }
+      },
+      "food": {
+        "spicy_tuna": {
+          "name": "辛辣鮪魚卷",
+          "description": "新鮮鮪魚、辣味美乃滋、小黃瓜"
+        },
+        "wagyu_dumplings": {
+          "name": "和牛煎餃",
+          "description": "頂級和牛、韭菜、黑醋"
+        },
+        "kimchi_rice": {
+          "name": "泡菜炒飯",
+          "description": "自製泡菜、太陽蛋、芝麻"
+        }
+      },
+      "specials": {
+        "wagyu_sliders": {
+          "name": "和牛迷你漢堡",
+          "description": "日本和牛、亞洲風味生菜"
+        },
+        "truffle_ramen": {
+          "name": "松露拉麵",
+          "description": "黑松露、叉燒、溏心蛋"
+        },
+        "lobster_bao": {
+          "name": "龍蝦包",
+          "description": "緬因龍蝦、山葵美乃滋"
+        }
+      }
+    }
+  },
+  "footer": {
+    "address": "亞洲風味街123號",
+    "hours": "營業時間",
+    "contact": "聯絡方式",
+    "rights": "版權所有",
+    "privacy": "隱私政策",
+    "terms": "服務條款"
+  },
+  "about": {
+    "title": "關於我們",
+    "description": "我們的故事與團隊",
+    "content": {
+      "title": "我們的故事",
+      "description": "現代亞洲酒吧將最好的亞洲美食與現代風格完美結合。自2023年成立以來，我們創造了一個傳統風味與現代技術相遇的空間。"
+    },
+    "team": {
+      "title": "我們的團隊",
+      "description": "認識現代亞洲酒吧背後充滿熱情的團隊",
+      "members": [
+        {
+          "name": "陳大衛",
+          "role": "行政主廚",
+          "bio": "擁有超過15年的亞洲料理經驗"
+        },
+        {
+          "name": "王小美",
+          "role": "調酒經理",
+          "bio": "專精於亞洲格調酒的調酒專家"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "聯絡我們",
+    "description": "預約訂位或查詢",
+    "info": {
+      "title": "訪問我們",
+      "address": "亞洲風味街123號",
+      "phone": "+886 2 1234 5678",
+      "email": "info@mab.com"
+    },
+    "form": {
+      "title": "預約訂位",
+      "name": "您的姓名",
+      "email": "電子郵件",
+      "date": "日期",
+      "time": "時間",
+      "guests": "人數",
+      "message": "特殊需求",
+      "submit": "確認預約"
+    }
+  },
+  "reservation": {
+    "title": "預約訂位",
+    "description": "預訂您的用餐體驗",
+    "form": {
+      "title": "預約訂位",
+      "name": "您的姓名",
+      "email": "電子郵件",
+      "phone": "聯絡電話",
+      "date": "日期",
+      "time": "時間",
+      "guests": "用餐人數",
+      "message": "特殊需求",
+      "submit": "確認預約",
+      "today": "今天",
+      "tomorrow": "明天",
+      "dayAfter": "後天",
+      "selectTime": "選擇時間"
+    }
+  },
+  "testimonials": {
+    "title": "顧客評價",
+    "description": "聽聽我們的顧客怎麼說"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "welcome": "Welcome",
+  "navigation": {
+    "home": "Home",
+    "menu": "Menu",
+    "about": "About",
+    "contact": "Contact",
+    "reservation": "Book a Table"
+  },
+  "hero": {
+    "title": "Experience Modern Asian Cuisine",
+    "subtitle": "Where tradition meets innovation"
+  },
+  "features": {
+    "title": "Why Choose Us",
+    "subtitle": "Discover what makes us unique",
+    "cards": {
+      "drinks": {
+        "title": "Craft Cocktails",
+        "description": "Unique Asian-inspired cocktails"
+      },
+      "food": {
+        "title": "Modern Asian Cuisine",
+        "description": "Contemporary interpretations"
+      },
+      "atmosphere": {
+        "title": "Ambient Setting",
+        "description": "Modern design meets tradition"
+      },
+      "hours": {
+        "title": "Extended Hours",
+        "description": "Open late to suit your evening plans"
+      }
+    }
+  },
+  "menu": {
+    "title": "Our Menu",
+    "description": "Explore our delicious dishes and unique cocktails",
+    "drinks": "Drinks",
+    "food": "Food",
+    "specials": "Specials",
+    "badges": {
+      "spicy": "Spicy",
+      "new": "New"
+    },
+    "items": {
+      "drinks": {
+        "signature_cocktail": {
+          "name": "Signature Cocktail",
+          "description": "Yuzu, sake, and Japanese gin blend"
+        },
+        "matcha_martini": {
+          "name": "Matcha Martini",
+          "description": "Premium matcha, vodka, cream"
+        },
+        "sakura_spritz": {
+          "name": "Sakura Spritz",
+          "description": "Cherry blossom, prosecco, soda"
+        }
+      },
+      "food": {
+        "spicy_tuna": {
+          "name": "Spicy Tuna Roll",
+          "description": "Fresh tuna, spicy mayo, cucumber"
+        },
+        "wagyu_dumplings": {
+          "name": "Wagyu Dumplings",
+          "description": "Premium wagyu, chives, black vinegar"
+        },
+        "kimchi_rice": {
+          "name": "Kimchi Fried Rice",
+          "description": "House-made kimchi, egg, sesame"
+        }
+      },
+      "specials": {
+        "wagyu_sliders": {
+          "name": "Wagyu Sliders",
+          "description": "Japanese wagyu, Asian slaw"
+        },
+        "truffle_ramen": {
+          "name": "Truffle Ramen",
+          "description": "Black truffle, chashu, soft egg"
+        },
+        "lobster_bao": {
+          "name": "Lobster Bao",
+          "description": "Maine lobster, wasabi mayo"
+        }
+      }
+    },
+    "all": "All"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Our story and our team",
+    "content": {
+      "title": "Our Story",
+      "description": "Modern Asian Bar brings together the best of Asian cuisine with contemporary flair. Founded in 2023, we've created a space where traditional flavors meet modern techniques."
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "Meet the passionate individuals behind Modern Asian Bar",
+      "members": [
+        {
+          "name": "Chef David Chen",
+          "role": "Executive Chef",
+          "bio": "With over 15 years of experience in Asian cuisine"
+        },
+        {
+          "name": "Sarah Wong",
+          "role": "Bar Manager",
+          "bio": "Mixology expert specializing in Asian-inspired cocktails"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Get in touch with us",
+    "info": {
+      "title": "Visit Us",
+      "address": "123 Asian Fusion Street",
+      "phone": "+886 2 1234 5678",
+      "email": "info@mab.com",
+      "hours": {
+        "title": "Opening Hours",
+        "weekdays": "Mon-Thu: 17:00 - 00:00",
+        "weekend": "Fri-Sat: 17:00 - 02:00",
+        "sunday": "Sun: 17:00 - 23:00"
+      }
+    }
+  },
+  "footer": {
+    "address": "123 Asian Fusion Street",
+    "hours": "Opening Hours",
+    "contact": "Contact Info",
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "reservation": {
+    "title": "Make a Reservation",
+    "description": "Book your dining experience",
+    "form": {
+      "title": "Make a Reservation",
+      "name": "Your Name",
+      "email": "Email",
+      "phone": "Phone",
+      "date": "Date",
+      "time": "Time",
+      "guests": "Number of Guests",
+      "message": "Special Requests",
+      "submit": "Confirm Reservation",
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "dayAfter": "Day After",
+      "selectTime": "Select Time",
+      "selectGuests": "Select Guests",
+      "person": "person",
+      "people": "people"
+    }
+  },
+  "testimonials": {
+    "title": "Customer Reviews",
+    "description": "What our customers say about us"
+  }
+}
